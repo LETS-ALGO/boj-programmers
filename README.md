@@ -5,3 +5,6 @@
 
 
 # 정예 - javascript
+|  <center>No</center> |  <center>Category</center> | <center>Title</center> | 
+|:--------|:--------:|:--------|
+|01|Graph|[BOJ11404](https://www.acmicpc.net/problem/11404) |
