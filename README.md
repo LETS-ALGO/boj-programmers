@@ -8,6 +8,7 @@
 |05|Prefix|[boj11441](https://www.acmicpc.net/problem/11441) |
 |06|TwoPointers|[boj2470](https://www.acmicpc.net/problem/2470) |
 |07|String|[programmers 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) |
+|08|Binary Search|[programmers 입국 심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |
 
 # 정예 - javascript
 |  <center>No</center> |  <center>Category</center> | <center>Title</center> | 
