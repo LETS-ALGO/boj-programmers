@@ -11,7 +11,7 @@
 |08|Binary Search|[programmers 입국 심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |
 |09|Graph|[programmers 다단계 칫솔](https://programmers.co.kr/learn/courses/30/lessons/77486) |
 |10|Heap|[programmers 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |
-|11|Heap|[programmers 불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |
+|11|Graph(DFS)|[programmers 불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |
 
 # 정예 - javascript
 |  <center>No</center> |  <center>Category</center> | <center>Title</center> | 
