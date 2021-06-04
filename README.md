@@ -15,6 +15,10 @@
 |12|BitMask|[programmers 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) |
 |13|Greedy|[programmers 110 옮기기](https://programmers.co.kr/learn/courses/30/lessons/77886) |
 |14|DP,BitMask|[boj 2098 외판원 순회](https://www.acmicpc.net/problem/2098) |
+|15|DP,BitMask|[boj 1562 계단수](https://www.acmicpc.net/problem/1562) |
+|16|Graph(DFS,BFS)|[boj 13460 구슬탈출2](https://www.acmicpc.net/problem/13460) |
+|17|Prefix|[boj 11659 구간합 구하기4](https://www.acmicpc.net/problem/11659) |
+
 
 # 정예 - javascript
 |  <center>No</center> |  <center>Category</center> | <center>Title</center> | 
