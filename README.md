@@ -19,7 +19,6 @@
 |16|Graph(DFS,BFS)|[boj 13460 구슬탈출2](https://www.acmicpc.net/problem/13460) |
 |17|Prefix|[boj 11659 구간합 구하기4](https://www.acmicpc.net/problem/11659) |
 
-
 # 정예 - javascript
 |  <center>No</center> |  <center>Category</center> | <center>Title</center> | 
 |:--------|:--------:|:--------|
