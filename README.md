@@ -28,3 +28,5 @@
 |03|BFS|[BOJ14395 4연산](https://www.acmicpc.net/problem/14395)|
 |04|BFS|[BOJ5214 환승](https://www.acmicpc.net/problem/5214)|
 |05|BFS|[BOJ14503 로봇 청소기](https://www.acmicpc.net/problem/14503)|
+|06|Stack|[Programmers 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|
+|07|String|[Programmers 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|
