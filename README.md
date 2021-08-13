@@ -18,6 +18,11 @@
 |15|DP,BitMask|[boj 1562 계단수](https://www.acmicpc.net/problem/1562) |
 |16|Graph(DFS,BFS)|[boj 13460 구슬탈출2](https://www.acmicpc.net/problem/13460) |
 |17|Prefix|[boj 11659 구간합 구하기4](https://www.acmicpc.net/problem/11659) |
+|18|PriorityQueue(heap)|[boj 1655 가운데로 말해요](https://www.acmicpc.net/problem/1655) |
+|19|BFS|[boj 5214 환승](https://www.acmicpc.net/problem/5214) |
+|20|BFS|[boj 16953 A->B](https://www.acmicpc.net/problem/16953) |
+|21|Stack|[boj 2504 괄호의 값](https://www.acmicpc.net/problem/2504) |
+|22|Stack|[programmers 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) |
 
 
 # 정예 - javascript
